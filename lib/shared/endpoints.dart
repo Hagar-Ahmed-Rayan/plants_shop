@@ -1,0 +1,14 @@
+const LOGIN='https://lavie.orangedigitalcenteregypt.com/api/v1/auth/signin';
+const GOOGLE ='https://lavie.orangedigitalcenteregypt.com/api/v1/auth/google';
+//const GETplants='https://lavie.orangedigitalcenconst.com/api/v1/plants';
+//const GETplants='https://lavie.orangedigitalcenteregypt.com/api/v1/plants';
+const GETplants='/api/v1/plants';
+//const GETSEEDS='https://lavie.orangedigitalcenteregypt.com/api/v1/seeds';
+const GETSEEDS='https://lavie.orangedigitalcenteregypt.com/api/v1/seeds';
+dynamic TOKEN='';
+const GETproducts='/api/v1/products';
+String baseurl='https://lavie.orangedigitalcenteregypt.com';
+DateTime? OLDTIME;
+int? OLDDAY;
+var constmodel;
+const UPDATE='/api/v1/user/me';
